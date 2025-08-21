@@ -3,7 +3,6 @@ package com.lucas.agendadortarefas.business.mapper;
 import com.lucas.agendadortarefas.business.dto.TarefasDTO;
 import com.lucas.agendadortarefas.infrastructure.entity.TarefasEntity;
 import org.mapstruct.Mapper;
-import org.mapstruct.Mapping;
 
 import java.util.List;
 
